@@ -1,0 +1,2 @@
+# bibliotecaED2
+O objetivo do exercício é gerenciar os livros de uma biblioteca. Para tanto, as seguintes informações são armazenadas: o ISBN do livro (chave primária), o título do livro, o autor, o ano e outras informações que você achar necessárias. O arquivo a ser criado deve ser de registros e campos de tamanho variável, com um inteiro (4 bytes) no início do registro indicando o tamanho do registro, e com campos separados pelo caractere ‘#’. 
